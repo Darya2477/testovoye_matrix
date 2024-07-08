@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/matrix_multiplier.dir/main.cpp.o CMakeFiles/matrix_multiplier.dir/src/matrix_multiplier.cpp.o -o matrix_multiplier 

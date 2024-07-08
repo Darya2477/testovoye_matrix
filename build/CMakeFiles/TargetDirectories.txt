@@ -1,0 +1,6 @@
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/matrix_multiplier.dir
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/run_tests.dir
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/build_and_test.dir
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/test.dir
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/edit_cache.dir
+/home/dasha/projects/testovoye_matrix/build/CMakeFiles/rebuild_cache.dir

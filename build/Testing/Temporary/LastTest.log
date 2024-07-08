@@ -1,0 +1,23 @@
+Start testing: Jul 09 02:19 MSK
+----------------------------------------------------------
+1/1 Testing: test_script
+1/1 Test: test_script
+Command: "/usr/bin/python3" "/home/dasha/projects/testovoye_matrix/tests/test_script.py"
+Directory: /home/dasha/projects/testovoye_matrix/build
+"test_script" start time: Jul 09 02:19 MSK
+Output:
+----------------------------------------------------------
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_script" end time: Jul 09 02:19 MSK
+"test_script" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 09 02:19 MSK

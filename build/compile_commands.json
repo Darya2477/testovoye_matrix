@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dasha/projects/testovoye_matrix/build",
+  "command": "/usr/bin/c++  -I/home/dasha/projects/testovoye_matrix/include -g -o CMakeFiles/matrix_multiplier.dir/main.cpp.o -c /home/dasha/projects/testovoye_matrix/main.cpp",
+  "file": "/home/dasha/projects/testovoye_matrix/main.cpp"
+},
+{
+  "directory": "/home/dasha/projects/testovoye_matrix/build",
+  "command": "/usr/bin/c++  -I/home/dasha/projects/testovoye_matrix/include -g -o CMakeFiles/matrix_multiplier.dir/src/matrix_multiplier.cpp.o -c /home/dasha/projects/testovoye_matrix/src/matrix_multiplier.cpp",
+  "file": "/home/dasha/projects/testovoye_matrix/src/matrix_multiplier.cpp"
+}
+]
